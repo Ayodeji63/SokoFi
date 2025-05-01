@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Base-Buildathon-blue)
 
-# SavvyCircle: Micro-Lending Platform for African Small Business Owners
+# SokoFi: Micro-Lending Platform for African Small Business Owners
 
 SavvyCircle is a decentralized micro-lending platform designed to empower small business owners in Africa. This platform leverages blockchain technology to create a transparent, efficient, and community-driven savings and loan system.
 
